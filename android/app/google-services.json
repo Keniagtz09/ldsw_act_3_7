@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359260154437",
+    "project_id": "cinesuwon",
+    "storage_bucket": "cinesuwon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359260154437:android:b2eae0d0d2789d1a41112c",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_act_3_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDlGQXgP7acvwCYsMZzATYVOp527uNrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
